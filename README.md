@@ -73,6 +73,6 @@ WatchDroid also has an additional feature, which is an advanced pin protection m
        * Click on send mail.
        * Your mail will be send.
 ```
-
+[DEMO VIDEO](https://drive.google.com/file/d/1EE9hzqMaMIU6XFAzaG9T9j9eVID8TElf/view?usp=sharing)
 
 
