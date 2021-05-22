@@ -2,8 +2,8 @@
   <library name="Gradle: com.github.machinarius:preferencefragment:0.1.1@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27422b90a13cd4653c034a2f8e76329f/preferencefragment-0.1.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27422b90a13cd4653c034a2f8e76329f/preferencefragment-0.1.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27422b90a13cd4653c034a2f8e76329f/preferencefragment-0.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27422b90a13cd4653c034a2f8e76329f/preferencefragment-0.1.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.machinarius/preferencefragment/0.1.1/1d04a8e239c7c5462f2802ced11551eadd13a0c6/preferencefragment-0.1.1-javadoc.jar!/" />

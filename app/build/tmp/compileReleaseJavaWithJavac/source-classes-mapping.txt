@@ -1,0 +1,38 @@
+com/arx_era_key/SoftKeyboard.java
+ com.arx_era_key.SoftKeyboard
+com/watchdroid/Settings.java
+ com.watchdroid.Settings
+ com.watchdroid.Settings$1
+ com.watchdroid.Settings$2
+ com.watchdroid.Settings$3
+com/watchdroid/MainActivity.java
+ com.watchdroid.MainActivity
+ com.watchdroid.MainActivity$1
+com/watchdroid/Setpass.java
+ com.watchdroid.Setpass
+ com.watchdroid.Setpass$1
+com/watchdroid/Lock.java
+ com.watchdroid.Lock
+ com.watchdroid.Lock$1
+ com.watchdroid.Lock$2
+com/arx_era_key/CandidateView.java
+ com.arx_era_key.CandidateView
+ com.arx_era_key.CandidateView$1
+com/watchdroid/Home.java
+ com.watchdroid.Home
+com/arx_era/watchdroid/BuildConfig.java
+ com.arx_era.watchdroid.BuildConfig
+com/arx_era_key/LatinKeyboard.java
+ com.arx_era_key.LatinKeyboard
+ com.arx_era_key.LatinKeyboard$LatinKey
+com/watchdroid/SplashScreen.java
+ com.watchdroid.SplashScreen
+com/watchdroid/Listener.java
+ com.watchdroid.Listener
+com/watchdroid/LogView.java
+ com.watchdroid.LogView
+ com.watchdroid.LogView$1
+com/watchdroid/ViewPagerAdapter.java
+ com.watchdroid.ViewPagerAdapter
+com/arx_era_key/LatinKeyboardView.java
+ com.arx_era_key.LatinKeyboardView

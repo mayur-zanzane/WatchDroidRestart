@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_mail.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_go_search.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\go_search.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_mail.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_close_black.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_close_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_plus.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_close_black.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_close_black.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_log_view.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\log_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_back.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_go.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\go.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\xml_settings.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable_pressed.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\drawable\\pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_preview.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_go.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\go.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\menu_toolbar.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\menu\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_input.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_go_search.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\go_search.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\anim_fab_close.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_plus.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_clear.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_mail.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_setpass.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\setpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_en_gb.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\drawable-hdpi\\icon_en_gb.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_go_search.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\go_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_heart.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_close_black.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_close_black.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_keyboard_popup_layout.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\keyboard_popup_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\xml_method.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_go_search.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\go_search.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\xml_symbols.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\xml_qwerty.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_go.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\go.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_en_us.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\drawable-hdpi\\icon_en_us.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_heart.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_go_search.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\go_search.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_mail.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_go.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\go.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_heart.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sym_keyboard_shift.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_close_black.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_close_black.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_heart.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_plus.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_close_black.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_close_black.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_go.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\go.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable_normal.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\drawable\\normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_clear.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_clear.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_plus.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_clear.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_go.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\go.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_heart.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_plus.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_plus.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\anim_rotate_forward.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\anim\\rotate_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_lock_main.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\lock_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\anim_rotate_backward.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\anim\\rotate_backward.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sym_keyboard_space.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\anim_fab_open.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_go.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\go.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\xml_symbols_shift.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_plus.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_close_black.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_close_black.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_heart.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_settings.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_mail.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\layout_home.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_clear.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable_key_background.xml.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\src\\main\\res\\drawable\\key_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_close_black.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_close_black.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_mail.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_clear.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_go_search.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\go_search.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_mail.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_heart.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_go_search.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\go_search.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_clear.png.flat",
+        "source": "C:\\Users\\home\\StudioProjects\\WatchDroidRestart\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\clear.png"
+    }
+]

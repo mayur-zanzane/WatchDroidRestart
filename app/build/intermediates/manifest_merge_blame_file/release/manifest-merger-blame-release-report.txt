@@ -1,0 +1,399 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.watchdroid"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:5:5-8:41
+8        android:maxSdkVersion="25"
+8-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:6:9-35
+9        android:minSdkVersion="19"
+9-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:7:9-35
+10        android:targetSdkVersion="29" />
+10-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:8:9-38
+11
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:10:5-81
+12-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:10:22-78
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+13-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:11:5-75
+13-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:11:22-72
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:12:5-80
+14-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:12:22-77
+15
+16    <!-- Include required permissions for Google Mobile Ads to run -->
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:19:5-66
+17-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:19:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional permission for Analytics to run. -->
+18-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:20:5-78
+18-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:20:22-76
+19    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
+19-->[com.google.android.gms:play-services-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\324f187eacd8f6c1e27bdd454661e788\play-services-analytics-10.2.0\AndroidManifest.xml:24:5-67
+19-->[com.google.android.gms:play-services-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\324f187eacd8f6c1e27bdd454661e788\play-services-analytics-10.2.0\AndroidManifest.xml:24:22-65
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->[com.google.android.gms:play-services-gcm:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\862a06595ead9acc33b48bd11d80b635\play-services-gcm-10.2.0\AndroidManifest.xml:20:5-81
+20-->[com.google.android.gms:play-services-gcm:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\862a06595ead9acc33b48bd11d80b635\play-services-gcm-10.2.0\AndroidManifest.xml:20:22-79
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\5c470b2a4041c608cc4eb642ceb1ee6c\play-services-maps-10.2.0\AndroidManifest.xml:21:5-77
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\5c470b2a4041c608cc4eb642ceb1ee6c\play-services-maps-10.2.0\AndroidManifest.xml:21:19-51
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\5c470b2a4041c608cc4eb642ceb1ee6c\play-services-maps-10.2.0\AndroidManifest.xml:21:52-75
+25
+26    <permission
+26-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:24:5-109
+27        android:name="com.watchdroid.permission.C2D_MESSAGE"
+27-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:24:17-71
+28        android:protectionLevel="signature" />
+28-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:24:72-107
+29
+30    <uses-permission android:name="com.watchdroid.permission.C2D_MESSAGE" />
+30-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:26:5-78
+30-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:26:22-76
+31
+32    <application
+32-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:14:5-78:19
+33        android:name="android.support.multidex.MultiDexApplication"
+33-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:15:9-68
+34        android:allowBackup="true"
+34-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:16:9-35
+35        android:excludeFromRecents="true"
+35-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:17:9-42
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:18:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:19:9-41
+38        android:screenOrientation="portrait"
+38-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:20:9-45
+39        android:supportsRtl="true"
+39-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:21:9-35
+40        android:theme="@style/AppTheme" >
+40-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:22:9-40
+41
+42        <!-- Splash screen -->
+43        <activity
+43-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:25:9-33:20
+44            android:name="com.watchdroid.SplashScreen"
+44-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:26:13-55
+45            android:noHistory="true" >
+45-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:27:13-37
+46            <intent-filter>
+46-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:28:13-32:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:29:17-69
+47-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:29:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:31:17-77
+49-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:31:27-74
+50            </intent-filter>
+51        </activity>
+52        <!-- Home activity -->
+53        <activity
+53-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:35:9-39:52
+54            android:name="com.watchdroid.MainActivity"
+54-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:36:13-55
+55            android:label="@string/app_name"
+55-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:37:13-45
+56            android:launchMode="singleTask"
+56-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:38:13-44
+57            android:screenOrientation="portrait" />
+57-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:39:13-49
+58
+59        <!-- Lock activity -->
+60        <activity
+60-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:42:9-45:43
+61            android:name="com.watchdroid.Lock"
+61-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:43:13-47
+62            android:screenOrientation="portrait"
+62-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:44:13-49
+63            android:theme="@style/Lock" />
+63-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:45:13-40
+64
+65        <!-- Keyboard -->
+66        <service
+66-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:48:9-59:19
+67            android:name="com.arx_era_key.SoftKeyboard"
+67-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:49:13-56
+68            android:label="@string/key_name"
+68-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:50:13-45
+69            android:permission="android.permission.BIND_INPUT_METHOD" >
+69-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:51:13-70
+70            <meta-data
+70-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:52:13-54:50
+71                android:name="android.view.im"
+71-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:53:17-47
+72                android:resource="@xml/method" />
+72-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:54:17-47
+73
+74            <intent-filter>
+74-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:56:13-58:29
+75                <action android:name="android.view.InputMethod" />
+75-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:57:17-67
+75-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:57:25-64
+76            </intent-filter>
+77        </service>
+78
+79        <!-- Password setup screen -->
+80        <activity
+80-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:62:9-64:52
+81            android:name="com.watchdroid.Setpass"
+81-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:63:13-50
+82            android:screenOrientation="portrait" />
+82-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:64:13-49
+83
+84        <receiver
+84-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:66:9-76:20
+85            android:name="com.watchdroid.Listener"
+85-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:67:13-51
+86            android:enabled="true" >
+86-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:68:13-35
+87            <intent-filter>
+87-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:69:13-75:29
+88                <action android:name="android.provider.Telephony.SECRET_CODE" />
+88-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:70:17-81
+88-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:70:25-78
+89
+90                <data
+90-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:72:17-74:60
+91                    android:host="111222"
+91-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:73:21-42
+92                    android:scheme="android_secret_code" />
+92-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:74:21-57
+93            </intent-filter>
+94        </receiver>
+95        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+95-->[com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\e6aefd6eeb7c439f7784bef7d12fff5a\play-services-cast-framework-10.2.0\AndroidManifest.xml:5:9-99
+95-->[com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\e6aefd6eeb7c439f7784bef7d12fff5a\play-services-cast-framework-10.2.0\AndroidManifest.xml:5:19-97
+96
+97        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+97-->[com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\e6aefd6eeb7c439f7784bef7d12fff5a\play-services-cast-framework-10.2.0\AndroidManifest.xml:6:9-103
+97-->[com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\e6aefd6eeb7c439f7784bef7d12fff5a\play-services-cast-framework-10.2.0\AndroidManifest.xml:6:18-101
+98        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+98-->[com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\e6aefd6eeb7c439f7784bef7d12fff5a\play-services-cast-framework-10.2.0\AndroidManifest.xml:7:9-92
+98-->[com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\e6aefd6eeb7c439f7784bef7d12fff5a\play-services-cast-framework-10.2.0\AndroidManifest.xml:7:18-90
+99        <activity
+99-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:25:9-232
+100            android:name="com.google.android.gms.ads.AdActivity"
+100-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:25:19-71
+101            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+101-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:25:72-181
+102            android:theme="@android:style/Theme.Translucent" />
+102-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:25:182-230
+103        <activity
+103-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:26:9-131
+104            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+104-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:26:19-91
+105            android:theme="@style/Theme.IAPTheme" />
+105-->[com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\1b10ef5ecb8ae924d7a4504345271c7c\play-services-ads-lite-10.2.0\AndroidManifest.xml:26:92-129
+106        <activity
+106-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:20:9-25:20
+107            android:name="com.google.android.gms.appinvite.PreviewActivity"
+107-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:20:19-50
+108            android:exported="true"
+108-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:20:51-74
+109            android:theme="@style/Theme.AppInvite.Preview" >
+109-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:20:75-121
+110            <intent-filter>
+110-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:21:13-24:29
+111                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+111-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:22:17-89
+111-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:22:25-87
+112
+113                <category android:name="android.intent.category.DEFAULT" />
+113-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:23:17-75
+113-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:23:27-73
+114            </intent-filter>
+115        </activity>
+116        <activity
+116-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:20:9-189
+117            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+117-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:20:19-68
+118            android:excludeFromRecents="true"
+118-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:20:129-162
+119            android:exported="false"
+119-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:20:163-187
+120            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+120-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:20:69-128
+121        <!--
+122Service handling Google Sign-In user revocation. For apps that do not integrate with
+123            Google Sign-In, this service will never be started.
+124        -->
+125        <service
+125-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:24:9-184
+126            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+126-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:24:18-63
+127            android:exported="true"
+127-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:24:64-87
+128            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+128-->[com.google.android.gms:play-services-auth:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\f1ca9f144760362f419cd09b5e7be0e7\play-services-auth-10.2.0\AndroidManifest.xml:24:88-182
+129
+130        <activity
+130-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\05a2c6fc12aa22c6ef163e471c12938d\play-services-base-10.2.0\AndroidManifest.xml:19:9-172
+131            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+131-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\05a2c6fc12aa22c6ef163e471c12938d\play-services-base-10.2.0\AndroidManifest.xml:19:19-85
+132            android:exported="false"
+132-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\05a2c6fc12aa22c6ef163e471c12938d\play-services-base-10.2.0\AndroidManifest.xml:19:146-170
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+133-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\05a2c6fc12aa22c6ef163e471c12938d\play-services-base-10.2.0\AndroidManifest.xml:19:86-145
+134        <!--
+135 FirebaseMessagingService performs security checks at runtime,
+136             no need for explicit permissions despite exported="true"
+137        -->
+138        <service
+138-->[com.google.firebase:firebase-messaging:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\a27a0fe182b2ace36313b88d77ce0360\firebase-messaging-10.2.0\AndroidManifest.xml:23:9-27:19
+139            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+139-->[com.google.firebase:firebase-messaging:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\a27a0fe182b2ace36313b88d77ce0360\firebase-messaging-10.2.0\AndroidManifest.xml:23:18-87
+140            android:exported="true" >
+140-->[com.google.firebase:firebase-messaging:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\a27a0fe182b2ace36313b88d77ce0360\firebase-messaging-10.2.0\AndroidManifest.xml:23:88-111
+141            <intent-filter android:priority="-500" >
+141-->[com.google.firebase:firebase-messaging:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\a27a0fe182b2ace36313b88d77ce0360\firebase-messaging-10.2.0\AndroidManifest.xml:24:13-26:29
+141-->[com.google.firebase:firebase-messaging:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\a27a0fe182b2ace36313b88d77ce0360\firebase-messaging-10.2.0\AndroidManifest.xml:24:28-51
+142                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+142-->[com.google.firebase:firebase-messaging:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\a27a0fe182b2ace36313b88d77ce0360\firebase-messaging-10.2.0\AndroidManifest.xml:25:17-77
+142-->[com.google.firebase:firebase-messaging:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\a27a0fe182b2ace36313b88d77ce0360\firebase-messaging-10.2.0\AndroidManifest.xml:25:25-75
+143            </intent-filter>
+144        </service>
+145        <service
+145-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:24:9-134
+146            android:name="com.google.android.gms.tagmanager.TagManagerService"
+146-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:24:18-84
+147            android:enabled="true"
+147-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:24:110-132
+148            android:exported="false" />
+148-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:24:85-109
+149
+150        <activity
+150-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:25:9-32:20
+151            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+151-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:25:19-93
+152            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+152-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:25:94-118
+153            <intent-filter>
+153-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:26:13-31:29
+154                <data android:scheme="tagmanager.c.com.watchdroid" />
+154-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:72:17-74:60
+154-->C:\Users\home\StudioProjects\WatchDroidRestart\app\src\main\AndroidManifest.xml:74:21-57
+155
+156                <action android:name="android.intent.action.VIEW" />
+156-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:28:17-68
+156-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:28:25-66
+157
+158                <category android:name="android.intent.category.DEFAULT" />
+158-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:23:17-75
+158-->[com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\c37a6cbd2f574c206ecbae3e0ad3143c\play-services-appinvite-10.2.0\AndroidManifest.xml:23:27-73
+159                <category android:name="android.intent.category.BROWSABLE" />
+159-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:30:17-77
+159-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\0470a346dfb07251765c3e38222ce082\play-services-tagmanager-api-10.2.0\AndroidManifest.xml:30:27-75
+160            </intent-filter>
+161        </activity>
+162
+163        <receiver
+163-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:25:7-26:18
+164            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+164-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:25:17-89
+165            android:enabled="true"
+165-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:25:90-112
+166            android:exported="false" >
+166-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:25:113-137
+167        </receiver>
+168        <receiver
+168-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:27:7-31:18
+169            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+169-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:27:17-104
+170            android:enabled="true"
+170-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:27:162-184
+171            android:permission="android.permission.INSTALL_PACKAGES" >
+171-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:27:105-161
+172            <intent-filter>
+172-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:28:11-30:27
+173                <action android:name="com.android.vending.INSTALL_REFERRER" />
+173-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:29:15-76
+173-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:29:23-74
+174            </intent-filter>
+175        </receiver>
+176
+177        <service
+177-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:32:7-137
+178            android:name="com.google.android.gms.measurement.AppMeasurementService"
+178-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:32:16-87
+179            android:enabled="true"
+179-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:32:88-110
+180            android:exported="false" />
+180-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\7e93405b41d9fd58a4d7e0a9a6cddf21\firebase-analytics-10.2.0\AndroidManifest.xml:32:111-135
+181
+182        <receiver
+182-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:30:9-36:20
+183            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+183-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:30:19-84
+184            android:exported="true"
+184-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:30:85-108
+185            android:permission="com.google.android.c2dm.permission.SEND" >
+185-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:30:109-169
+186            <intent-filter>
+186-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:31:13-35:29
+187                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+187-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:32:17-80
+187-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:32:25-78
+188                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+188-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:33:17-85
+188-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:33:25-83
+189
+190                <category android:name="com.watchdroid" />
+190-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:34:17-60
+190-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:34:27-58
+191            </intent-filter>
+192        </receiver>
+193        <!--
+194 Internal (not exported) receiver used by the app to start its own exported services
+195             without risk of being spoofed.
+196        -->
+197        <receiver
+197-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:40:9-119
+198            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+198-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:40:19-92
+199            android:exported="false" />
+199-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:40:93-117
+200        <!--
+201 FirebaseInstanceIdService performs security checks at runtime,
+202             no need for explicit permissions despite exported="true"
+203        -->
+204        <service
+204-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:44:9-48:19
+205            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+205-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:44:18-82
+206            android:exported="true" >
+206-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:44:83-106
+207            <intent-filter android:priority="-500" >
+207-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:45:13-47:29
+207-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:45:28-51
+208                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+208-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:46:17-79
+208-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\3d340841d732ccf01634becf2d971da6\firebase-iid-10.2.0\AndroidManifest.xml:46:25-77
+209            </intent-filter>
+210        </service>
+211
+212        <provider
+212-->[com.google.firebase:firebase-common:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\8617d30e330d520a09d980ecdaeba0d6\firebase-common-10.2.0\AndroidManifest.xml:6:9-194
+213            android:name="com.google.firebase.provider.FirebaseInitProvider"
+213-->[com.google.firebase:firebase-common:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\8617d30e330d520a09d980ecdaeba0d6\firebase-common-10.2.0\AndroidManifest.xml:6:79-143
+214            android:authorities="com.watchdroid.firebaseinitprovider"
+214-->[com.google.firebase:firebase-common:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\8617d30e330d520a09d980ecdaeba0d6\firebase-common-10.2.0\AndroidManifest.xml:6:19-78
+215            android:exported="false"
+215-->[com.google.firebase:firebase-common:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\8617d30e330d520a09d980ecdaeba0d6\firebase-common-10.2.0\AndroidManifest.xml:6:144-168
+216            android:initOrder="100" />
+216-->[com.google.firebase:firebase-common:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\8617d30e330d520a09d980ecdaeba0d6\firebase-common-10.2.0\AndroidManifest.xml:6:169-192
+217
+218        <meta-data
+218-->[com.google.android.gms:play-services-basement:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\5b00f1b5a8c76c61d9b76d17ba8cb873\play-services-basement-10.2.0\AndroidManifest.xml:20:9-121
+219            android:name="com.google.android.gms.version"
+219-->[com.google.android.gms:play-services-basement:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\5b00f1b5a8c76c61d9b76d17ba8cb873\play-services-basement-10.2.0\AndroidManifest.xml:20:20-65
+220            android:value="@integer/google_play_services_version" />
+220-->[com.google.android.gms:play-services-basement:10.2.0] C:\Users\home\.gradle\caches\transforms-2\files-2.1\5b00f1b5a8c76c61d9b76d17ba8cb873\play-services-basement-10.2.0\AndroidManifest.xml:20:66-119
+221    </application>
+222
+223</manifest>
